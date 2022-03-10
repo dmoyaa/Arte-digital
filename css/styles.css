@@ -1,0 +1,104 @@
+.imagen-header{
+     margin-left: 10px;
+     margin-top: 15px;
+     margin-bottom: 10px;
+     float:left;
+       }
+.texto-encabezado{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    width: 200px;
+    margin-left: auto;
+    margin-bottom: 20px;
+    margin-top: -155px;
+    
+}
+.texto-centrado{
+    color: rgb(90, 90, 90);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    margin-top : 0px;
+    
+}
+header{
+
+    background-color: #fff159ea;
+    height: auto;
+
+}
+body{
+    background-color:   rgb(236, 236, 236);
+    margin: 0;
+    padding: 0;
+}
+.search{
+    border-color: rgb(18, 18, 19);
+    color: rgb(15, 15, 15);
+    margin-top: 0px;
+    width: 300px;
+    height: 15px;
+    
+}
+.label-inicio   {
+    color: rgb(90, 90, 90);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    
+    
+}
+.parrafo-introductorio{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 3%;
+    color: rgb(90, 90, 90);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    text-align: justify;
+}
+.button{
+    background-color: rgb(216, 189, 189);
+    font-size: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    margin: 5px;
+}
+.button-like{
+    background-color: rgb(216, 189, 189);
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.informacion-colecciones{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.images-tables{
+    border-radius: 0.5%; border-style: groove; border-color:rgb(218, 208, 127) ;width: 400px;
+}
+.images-tables2{
+    width: 500px;
+}
+.precio{
+    background-color: #f1e669ea;
+}
+.container{
+    max-width: 1100px;
+    background-color: white;
+    border-radius: 5px;
+    border-style: groove;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    min-height: 600px;
+
+}
+.container-inicio-sesion{
+    max-width:600px;
+    background-color: white;
+    border-radius: 5px;
+    border-style: groove;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    min-height: 500px;
+
+}
